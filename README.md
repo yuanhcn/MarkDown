@@ -80,3 +80,29 @@
 你想换行的话其实可以直接用html标签\<br /\>  
 <br />  
 <br />  
+-----------------------------------------------------
+<br /> 
+*************************************
+<br /> 
+*single asterisks一个星号**
+<br /> 
+_single underscores一个下划线__
+<br /> 
+**double asterisks两个星号***
+<br /> 
+__double underscores两条下划线___
+<br /> 
+Use the `printf()` function.使用了反引号
+<br /> 
+``There is a literal backtick (`) here.``
+<br /> 
+``There is a literal backtick``
+<br /> 
+A single backtick in a code span: `` ` ``
+<br /> 
+A backtick-delimited string in a code span: `` `foo` ``
+<br /> 
+
+
+
+This is a markdown lesson.
